@@ -4,6 +4,12 @@ ICHAIN, currently on **[ichain.io](http://ichain.io)** is a decentralized soluti
 
 Due to extremly *high costs* for adding data intro the Blockchain trough [Smart Contracts](http://ethereum.org/greeter) etc, only **hashes** ( **[md5](http://www.freeformatter.com/message-digest.html) hashes** to be more exact ) of images will be saved into the main chain and possibly small thumbnails into the private blockchain. 
 
+## Getting Started
+
+Download the project zip file or use git and install after installing all the prerequisities.
+
+ 
+
 ## Authors 
 
 * **Andy B** - [Andysign](http://github.com/andysign)
