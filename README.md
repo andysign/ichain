@@ -8,7 +8,25 @@ Due to extremly *high costs* for adding data intro the Blockchain trough [Smart 
 
 Download the project zip file or use git and install after installing all the prerequisities.
 
- 
+```node index``` or ```nodejs index```
+
+
+
+## Prerequisities 
+
+The following are tested
+
+> *nodejs-legacy* v0.10.25; *npm* v1.4.21; *geth* Version: 1.3.3/1.4.0-unstable; 
+
+### Prerequisities Details
+
+* *Node.js* - [Download](http://nodejs.org/) then install, view [nodeschool](http://nodeschool.io/) for more or tutsplus  <br> ```apt-get install nodejs-legacy```
+* *Npm* - [Download](https://nodejs.org/en/download/) then install <br> ```apt-get install npm```
+* *Go Ethereum* - [Download](http://ethereum.github.io/go-ethereum/) then install or the [compiled binaries](https://github.com/ethereum/go-ethereum/releases/) <br> ```bash <(curl -L https://install-geth.ethereum.org)  ```  
+
+#### Prerequisities Packages 
+
+* TBD
 
 ## Authors 
 
